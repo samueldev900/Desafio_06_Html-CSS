@@ -4,7 +4,8 @@
     body{
         font-size: 11pt;
         background: url(../images/pattern-background-desktop.svg)no-repeat;
-        background-size: cover;
+        background-size: contain;
+         background-color: #d6e1ff96;
     }
     main{
         height: 550px;
