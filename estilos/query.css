@@ -3,6 +3,8 @@
 @media screen  and (min-width:1024px) {
     body{
         font-size: 11pt;
+        background: url(../images/pattern-background-desktop.svg)no-repeat;
+        background-size: cover;
     }
     main{
         height: 550px;
